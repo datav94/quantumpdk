@@ -1,0 +1,32 @@
+# Quantum PDK
+
+> <no value>
+
+
+## 
+
+## Blog
+
+## Docs
+
+### ArtificialIntelligence
+
+### CoreMath
+
+#### Calculus
+
+#### LinearAlgebra
+
+#### StatsAndProb
+
+### QuantumComputing
+- [Qubits](http://localhost:1313/docs/quantumcomputing/qubits/): Qubits: The Secret Weapon of Quantum Computing ⚛️ In the digital world we know, information is … - Published 2025-10-16
+
+### QuantumPhysics1
+
+### QuantumPhysics2
+
+
+---
+Generated on 2025-10-16 10:23:42 UTC
+Site: http://localhost:1313/
